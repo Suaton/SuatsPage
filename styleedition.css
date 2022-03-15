@@ -52,4 +52,21 @@ nav ul li a:hover{
     font-size: 50px;
 }
 
+.kofi {
+    text-align: center;
+    list-style: none;
+    display: inline-block;
+    margin-right:200px;
+}
+.kofi {
+    text-align: center;
+    text-decoration: none;
+    color:rgb(163, 219, 32);
+    font-size: 40px;
+}
+.kofi :hover{
+    text-align: center;
+    color: #b8a70e;
+}
+
 
