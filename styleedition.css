@@ -1,0 +1,55 @@
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: right;
+}
+
+nav ul li {
+    text-align: center;
+    list-style: none;
+    display: inline-block;
+    margin-right:200px;
+}
+nav ul li {
+    text-align: center;
+    text-decoration: none;
+    color:rgb(163, 219, 32);
+    font-size: 40px;
+}
+nav ul li a:hover{
+    text-align: center;
+    color: #ff5ea2;
+}
+.information {
+    font-family: "Times New Roman", 'Times New Roman', Times, serif
+}
+
+.socialmedialinks {
+    text-align: center;
+    list-style: none;
+    display: inline-block;
+    margin-right:200px;
+}
+.socialmedialinks {
+    text-align: center;
+    text-decoration: none;
+    color:rgb(163, 219, 32);
+    font-size: 40px;
+}
+.socialmedialinks :hover{
+    text-align: center;
+    color: #ff5ea2;
+}
+
+.EVERYONELOVESIT {
+    font-size: 100px;
+}
+.songs {
+    font-size: 40px;
+}
+.contact {
+    font-size: 50px;
+}
+
+
